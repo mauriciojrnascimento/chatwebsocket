@@ -16,6 +16,3 @@ Run the application with:
 
 `dotnet run`
 
-___
-
-Baseado no tutorial -> https://docs.microsoft.com/pt-br/aspnet/core/tutorials/signalr?view=aspnetcore-3.1&tabs=visual-studio-code
